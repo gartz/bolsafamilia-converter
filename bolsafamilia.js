@@ -20,7 +20,7 @@ program
     console.log('');
     console.log('  Examples:');
     console.log('');
-    console.log('    ./bolsafamilia.js ./dbs/201401_BolsaFamiliaFolhaPagamento.csv -v 11 -s 1 -i 1./dbs/base.csv -c 7 -s 4 -i 1 -d ,');
+    console.log('    ./bolsafamilia.js ./dbs_demo/2014bolsa_familia_1000.csv -v 11 -s 1 ./dbs_demo/2012base.csv -c 7 -s 4 -d ,');
     console.log('');
   })
   .parse(process.argv);
