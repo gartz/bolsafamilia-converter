@@ -1,0 +1,4 @@
+dbs/*
+node_modules/*
+.settings
+.c9*

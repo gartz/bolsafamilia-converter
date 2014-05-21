@@ -1,0 +1,16 @@
+{
+  "name": "bolsafamilia",
+  "version": "0.0.1",
+  "description": "App to join and calculate csv databases to get bolsafamilia statistics",
+  "main": "conversor.js",
+  "dependencies": {
+    "q": "~1.0.1",
+    "commander": "~2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Reitz Giannattasio <gabriel@gartz.com.br>",
+  "license": "MIT"
+}
