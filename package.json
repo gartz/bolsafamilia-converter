@@ -1,5 +1,5 @@
 {
-  "name": "bolsafamilia",
+  "name": "bolsafamilia-converter",
   "version": "0.0.1",
   "description": "App to join and calculate csv databases to get bolsafamilia statistics",
   "main": "bolsafamilia.js",
