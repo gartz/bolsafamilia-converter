@@ -2,7 +2,7 @@
   "name": "bolsafamilia",
   "version": "0.0.1",
   "description": "App to join and calculate csv databases to get bolsafamilia statistics",
-  "main": "conversor.js",
+  "main": "bolsafamilia.js",
   "dependencies": {
     "q": "~1.0.1",
     "commander": "~2.2.0"
