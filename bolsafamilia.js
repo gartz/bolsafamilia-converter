@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs');
 var readline = require('readline');
 var Q = require('q');
@@ -18,7 +20,7 @@ program
     console.log('');
     console.log('  Examples:');
     console.log('');
-    console.log('    node conversor.js 201401_BolsaFamiliaFolhaPagamento.csv -v 11 -s 1 -i 1 -d "\\t" base.csv -c 7 -s 4 -i 1 -d ,');
+    console.log('    ./bolsafamilia.js ./dbs/201401_BolsaFamiliaFolhaPagamento.csv -v 11 -s 1 -i 1./dbs/base.csv -c 7 -s 4 -i 1 -d ,');
     console.log('');
   })
   .parse(process.argv);
